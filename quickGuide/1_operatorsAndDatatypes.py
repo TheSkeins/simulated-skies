@@ -55,7 +55,7 @@ x = "HHH" #String
 # Just know that these exist for now
 x = []             #Lists
 x = {}             #Dictionaries
-x = (VALUE ,VALUE) #Tuple
+x = ()             #Tuple
 x = set()
 
 
@@ -76,6 +76,8 @@ x & 1   #Bitwise And:   Results in 0001 in bits or 1 in decimal
 x**1  #Exponent
 x//2  #Floor division (round down)
 x % 1 #get the remainder after division
+x += 1 #Short hand for x = x + Value
+x -= 1 #Short hand for x = x - Value
 
 """
  Awesome! Thats all of the crash course for the operators and datatypes of python please do the following homework below:
