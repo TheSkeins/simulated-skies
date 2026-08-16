@@ -78,6 +78,9 @@ x//2  #Floor division (round down)
 x % 1 #get the remainder after division
 x += 1 #Short hand for x = x + Value
 x -= 1 #Short hand for x = x - Value
+x *= 1 #Short hand for x = x * Value
+x /= 1 #Short hand for x = x / Value
+x **= 1 #Short hand for x = x ** Value
 
 """
  Awesome! Thats all of the crash course for the operators and datatypes of python please do the following homework below:
